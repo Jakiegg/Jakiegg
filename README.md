@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jakiegg
-- 👀 I’m interested in FiveM Lua Code
-- 🌱 I’m currently learning Lua and SQL
-- 💞️ I’m looking to collaborate on FiveM Coding
+- 👀 I’m interested in FiveM Lua Coding
+- 🌱 I’m currently learning Lua Coding
+- 💞️ I’m looking to collaborate on FiveM
 - 📫 How to reach me Discord: Jakiegg_#1497
